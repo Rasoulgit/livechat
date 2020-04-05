@@ -1,0 +1,8 @@
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\bin\Debug\netcoreapp3.1\LiveChat.DataModel.deps.json
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\bin\Debug\netcoreapp3.1\LiveChat.DataModel.dll
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\bin\Debug\netcoreapp3.1\LiveChat.DataModel.pdb
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\obj\Debug\netcoreapp3.1\LiveChat.DataModel.csprojAssemblyReference.cache
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\obj\Debug\netcoreapp3.1\LiveChat.DataModel.AssemblyInfoInputs.cache
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\obj\Debug\netcoreapp3.1\LiveChat.DataModel.AssemblyInfo.cs
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\obj\Debug\netcoreapp3.1\LiveChat.DataModel.dll
+C:\Users\Rasoul\source\repos\LiveChat\LiveChat.DataModel\obj\Debug\netcoreapp3.1\LiveChat.DataModel.pdb
