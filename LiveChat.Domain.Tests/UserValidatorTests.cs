@@ -9,11 +9,6 @@ namespace LiveChat.Domain.Tests
     {
         private readonly UserValidator validator = new UserValidator();
 
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void Validate_WhenUsernameIsEmpty_ReturnError()
         {
